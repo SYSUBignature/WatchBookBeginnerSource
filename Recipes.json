@@ -1,47 +1,49 @@
 [
   {
-    "name": "炖烤牛肋排",
+    "name": "鸡蛋火腿生菜三明治",
     "ingredients": [
       {
-        "quantity": "1块",
-        "name": " 烤牛肋排",
+        "quantity": "1个",
+        "name": " 鸡蛋",
         "type": "Meat"
       },
       {
-        "quantity": "1包",
-        "name": "卤肉汁",
+        "quantity": "1片",
+        "name": "火腿",
+        "type": "Meat"
+      },
+      {
+        "quantity": "半片",
+        "name": "芝士",
+        "type": "Condiments"
+      },
+      {
+        "quantity": "2片",
+        "name": "吐司",
         "type": "Baking"
       },
       {
-        "quantity": "1包",
-        "name": "意大利混合沙拉",
-        "type": "Condiments"
-      },
-      {
-        "quantity": "1包",
-        "name": "牧场沙拉",
-        "type": "Condiments"
-      },
-      {
-        "quantity": "半杯",
-        "name": "水",
-        "type": "Drinks"
+        "quantity": "2片",
+        "name": "生菜",
+        "type": "Produce"
       }
     ],
     "steps": [
-      "把牛肋排放入炖锅.",
-      "把调料放入碗里混合均匀浇在牛肋骨肉上.",
-      "肉周围放一点水.",
-      "小火烤 7-9 小时."
+      "平底锅加热，放入火腿片，微煎；",
+      "打入鸡蛋煎熟，尽量不加油；",
+      "用烤箱烤面包至表面微脆；",
+      "然后以生菜+鸡蛋+芝士+火腿的顺序铺在吐司上；"
+      "吐司合体压紧，切掉吐司边，对角线切开即成。"
     ],
     "timers": [
       0,
       0,
+      2,
       0,
-      420
+      0
     ],
-    "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
-    "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
+    "imageURL": "http://img.mp.itc.cn/upload/20160516/da81c4d68ad449ff99a904dcb197acb6_th.jpg",
+    "originalURL": "http://mt.sohu.com/20160516/n449706367.shtml"
   },
  
   {
