@@ -43,7 +43,52 @@
     "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
     "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
   },
- 
+  
+  {
+    "name": "鸡蛋火腿生菜三明治",
+    "ingredients": [
+      {
+        "quantity": "1个",
+        "name": " 鸡蛋",
+        "type": "Meat"
+      },
+      {
+        "quantity": "1片",
+        "name": "火腿",
+        "type": "Meat"
+      },
+      {
+        "quantity": "1/2片",
+        "name": "芝士",
+        "type": "Condiments"
+      },
+      {
+        "quantity": "2片",
+        "name": "吐司",
+        "type": "Baking"
+      },
+      {
+        "quantity": "2片",
+        "name": "生菜",
+        "type": "Condiments"
+      }
+    ],
+    "steps": [
+      "平底锅加热，放入火腿片，微煎，打入鸡蛋煎熟，尽量不加油.",
+      "用烤箱烤面包至表面微脆.",
+      "然后以生菜鸡蛋芝士火腿的顺序铺在吐司上.",
+      "吐司合体压紧，切掉吐司边，对角线切开即成."
+    ],
+    "timers": [
+      2,
+      0,
+      0,
+      0
+    ],
+    "imageURL": "http://img.sndimg.com/food/image/upload/w_266/v1/img/recipes/27/20/8/picVfzLZo.jpg",
+    "originalURL": "http://www.food.com/recipe/to-die-for-crock-pot-roast-27208"
+  },
+  
   {
     "name": "奶酪披萨",
     "ingredients": [
